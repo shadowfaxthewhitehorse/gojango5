@@ -1,7 +1,11 @@
 // implementation of solution of Convex Hull problem
 //
 // uses Graham Scan algorithm
-
+//
+// If you want to understand the Graham Scan algorithm, go here:
+// (1) Link #1: https://iq.opengenus.org/graham-scan-convex-hull/#:~:text=Graham%27s%20Scan%20Algorithm%20is%20an%20efficient%20algorithm%20for,detect%20and%20remove%20concavities%20in%20the%20boundary%20efficiently.
+// (2) Link #2: https://www.geeksforgeeks.org/convex-hull-using-graham-scan/
+// 
 package main
 
 import (
