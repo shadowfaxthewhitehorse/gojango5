@@ -1,5 +1,5 @@
-# converx hull problem
-# solved using Graham scan algorithm
+// converx hull problem
+// solved using Graham scan algorithm
 
 package main
 
